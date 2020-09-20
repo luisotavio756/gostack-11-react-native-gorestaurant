@@ -3,7 +3,7 @@
 <div align="center">
 	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1600607419/Entrar_gkit7i.png" />
   <img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1600607652/Home_1_t0xrrh.png" />
-  <img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1600607427/Detalhes_dwjrln.png" />
+  <img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1600607972/Home_2_t5apsp.png" />
 </div>
 <h4 align="center">A challenge evelen from Bootcamp GoStack of the Rockeseat</h4>
 <p align="center">
